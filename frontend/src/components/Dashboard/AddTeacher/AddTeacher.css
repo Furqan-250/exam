@@ -1,0 +1,18 @@
+.form-class {
+  background-color: rgba(192, 168, 168, 0.685);
+  padding: 50px 100px;
+  height: 100vh;
+}
+.form-class div{
+  display: flex;
+  justify-content: space-between;
+  margin-top: 0.7%;
+  width: 28%;
+}
+.form-class div>input{
+  background: #fff;
+}
+
+h2, .linkbtn {
+  color:black
+}
